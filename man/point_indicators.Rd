@@ -7,7 +7,7 @@
 point_indicators(indicators, size = 1, vjust = 0.5)
 }
 \arguments{
-\item{indicators}{data.frame whith thre variables: 1 actors, 2 indicators and 3 values}
+\item{indicators}{indicators data.frame}
 
 \item{size}{size of value labels}
 
