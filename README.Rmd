@@ -6,7 +6,7 @@ output: github_document
 knitr::opts_chunk$set(collapse=TRUE, comment="##", fig.retina=2, fig.path = "README_figs/README-")
 ```
 
-#Bibliometric plots
+# Bibliometric plots
 Bibliometric plots in R
 
 ## Installation
