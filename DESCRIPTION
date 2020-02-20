@@ -10,8 +10,7 @@ Depends:
 Imports:
     stats,
     utils,
-    ggplot2,
-    igraph
+    ggplot2
 License: GPL-3 | file LICENSE
 URL: https://github.com/Wences91/bibplots
 BugReports: https://github.com/Wences91/bibplots/issues
