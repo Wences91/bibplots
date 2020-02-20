@@ -11,7 +11,6 @@ point_indicators <- function(indicators, size=1, vjust=0.5){
   p <- ggplot2::ggplot()
   
   sapply(unique(names(indicators)), function(x){
-    print(x)
     p <<- p + ggplot2::geom_point(ggplot2::aes(x=row.names(indicators), y=x, color=100*indicators[,x]/sum(indicators[,x])), size=100*indicators[,x]/sum(indicators[,x]), alpha=.8)
     p <<- p + ggplot2::geom_text(ggplot2::aes(x=row.names(indicators), y=x, label=as.character(indicators[,x])), size=size, vjust=vjust, color='grey30')
   })
