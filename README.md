@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.org/Wences91/bibplots.svg?branch=master)](https://travis-ci.org/Wences91/bibplots)
+
 # Bibliometric plots
 
 Bibliometric plots in R
