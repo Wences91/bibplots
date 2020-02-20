@@ -1,0 +1,19 @@
+Package: bibplots
+Type: Package
+Title: Bibliometric plots
+Version: 0.1
+Author: Wenceslao Arroyo-Machado [aut] (<http://orcid.org/0000-0001-9437-8757>)
+Maintainer: Wenceslao Arroyo-Machado <wences@ugr.es>
+Description: Bibliometric plots in R.
+Depends:
+	R(>= 3.3)
+Imports:
+    stats,
+    utils,
+    igraph
+License: GPL-3 | file LICENSE
+URL: https://github.com/Wences91/bibplots
+BugReports: https://github.com/Wences91/bibplots/issues
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
