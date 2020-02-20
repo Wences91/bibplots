@@ -1,4 +1,4 @@
-# Bibliometric plots Bibliometric plots in R
+# Bibliometric plots
 
 ## Installation
 
