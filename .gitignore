@@ -1,0 +1,12 @@
+**/.DS_Store
+
+# Rproject
+.Rproj.user
+
+# History files
+.Rhistory
+.Rapp.history
+
+# R data
+.RData
+.Ruserdata
